@@ -27,6 +27,7 @@ Execute the C Program for the desired output.
 
 
 
+
 ## 2.To Write a C program that illustrates files locking
 
 
@@ -34,6 +35,7 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
+<img width="713" height="142" alt="image" src="https://github.com/user-attachments/assets/30ab5c62-1fa8-46ea-92f2-059bf20ac35f" />
 
 
 
